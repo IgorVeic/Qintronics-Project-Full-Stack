@@ -46,7 +46,7 @@ Admin:
 • View all registered orders.
 
 Delivery Person:
-• Mark orders as taken or delivered.
+• Mark orders as taken or delivered..
 
 Customer:
 • Make orders and pay with cash or card (save card details if needed).
