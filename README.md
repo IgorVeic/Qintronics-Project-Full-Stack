@@ -105,26 +105,6 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 - Allows users to send inquiries.
 
-# 📜 API Usage
-
-**Initial Setup:**
-
-1. Initialize users via /api/users/init-users.
-2. Backfill sections via /api/sections/backfill.
-
-**Auth Endpoints:**
-
-- /api/auth/register: Register a user.
-- /api/auth/login: Log in.
-- /api/auth/logout: Log out.
-- /api/auth/forgot-password: Send a password reset email.
-- /api/auth/reset-password: Save a new password.
-
-**Additional Endpoints:**
-
-- /api/products: Manage products.
-- /api/orders: Manage orders.
-
 # 📦 Database
 
 - PostgreSQL: Includes tables for users, products, orders, categories, sections, and more.
