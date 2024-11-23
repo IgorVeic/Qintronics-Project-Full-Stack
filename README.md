@@ -6,24 +6,24 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Frontend:**
 
-- ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-- ![Tailwind CSS](https://img.shields.io/badge/Styles-TailwindCSS-blueviolet?logo=tailwindcss)
-- ![Framer Motion](https://img.shields.io/badge/Animations-FramerMotion-orange?logo=framer)
-- ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?logo=typescript)
+- ![React](https://img.shields.io/badge/React-blue?logo=react)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blueviolet?logo=tailwindcss)
+- ![Framer Motion](https://img.shields.io/badge/FramerMotion-orange?logo=framer)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-informational?logo=typescript)
 
 **Backend:**
 
-- ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-- ![NestJS](https://img.shields.io/badge/Framework-NestJS-red?logo=nestjs)
-- ![TypeORM](https://img.shields.io/badge/ORM-TypeORM-yellow?logo=typeorm)
+- ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+- ![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
+- ![TypeORM](https://img.shields.io/badge/TypeORM-yellow?logo=typeorm)
 
 **Database:**
 
-- ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 
 **Documentation:**
 
-- ![Swagger](https://img.shields.io/badge/Docs-Swagger-lightgreen?logo=swagger)
+- ![Swagger](https://img.shields.io/badge/Swagger-lightgreen?logo=swagger)
 
 # 📂 Project Structure
 
