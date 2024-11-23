@@ -137,8 +137,8 @@ Additional Endpoints:
 1. Clone the repository.
 2. Navigate to the client and server directories and install dependencies using npm install.
 3. Start the client and server:
-   - Client: npm run dev (React app).
-   - Server: npm run start:dev (NestJS app).
+   - Client: **npm run dev** (React app).
+   - Server: **npm run start:dev** (NestJS app).
 4. Initialize the database with Swagger APIs:
    - /api/users/init-users
    - /api/sections/backfill
