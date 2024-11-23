@@ -6,24 +6,25 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Frontend:**
 
-- ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react) React : Component-based user interface.
+- ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 - Tailwind CSS: For modern and responsive styling.
-- Framer Motion: For animations.
-- TypeScript: Ensures type safety.
+- ![Tailwind CSS](https://img.shields.io/badge/Styles-TailwindCSS-blueviolet?logo=tailwindcss)
+- ![Framer Motion](https://img.shields.io/badge/Animations-FramerMotion-orange?logo=framer)
+- ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?logo=typescript)
 
 **Backend:**
 
-- Node.js: Server-side runtime.
-- NestJS: Framework for scalable backend architecture.
-- TypeORM: ORM for database interactions.
+- ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+- ![NestJS](https://img.shields.io/badge/Framework-NestJS-red?logo=nestjs)
+- ![TypeORM](https://img.shields.io/badge/ORM-TypeORM-yellow?logo=typeorm)
 
 **Database:**
 
-- PostgreSQL: Relational database for storing application data.
+- ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 
 **Documentation:**
 
-- Swagger: API documentation.
+- ![Swagger](https://img.shields.io/badge/Docs-Swagger-lightgreen?logo=swagger)
 
 # 📂 Project Structure
 
