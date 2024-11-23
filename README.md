@@ -83,6 +83,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Search:**
 
+- Search bar in the navbar allows users to quickly search for products by name.
 - Use an AI chatbot to search for specific products.
 
 # Additional Features:
