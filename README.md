@@ -23,7 +23,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Documentation:**
 
-- ![Swagger](https://img.shields.io/badge/Swagger-lightgreen?logo=swagger)
+- ![Swagger](https://img.shields.io/badge/Swagger-green?logo=swagger)
 
 # 📂 Project Structure
 
