@@ -1,4 +1,4 @@
-# 💻 **Qintronics Electronics Store - Full-Stack**
+# 💻 Qintronics Electronics Store - Full-Stack
 
 Qintronics is a comprehensive full-stack e-commerce application built to provide a seamless shopping experience for electronics. It features robust functionalities for customers, admins, and delivery personnel, ensuring an efficient and scalable solution.
 
