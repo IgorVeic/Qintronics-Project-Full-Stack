@@ -6,7 +6,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Frontend:**
 
-- React: Component-based user interface.
+- ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react) React : Component-based user interface.
 - Tailwind CSS: For modern and responsive styling.
 - Framer Motion: For animations.
 - TypeScript: Ensures type safety.
