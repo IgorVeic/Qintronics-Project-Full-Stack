@@ -53,7 +53,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Delivery Person:**
 
-- Mark orders as taken or delivered..
+- Mark orders as taken or delivered.
 
 **Customer:**
 
