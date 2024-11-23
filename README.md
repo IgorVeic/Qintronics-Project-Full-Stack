@@ -4,35 +4,35 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 # 🖥️ Technologies Used
 
-Frontend:
+**Frontend:**
 
 - React: Component-based user interface.
 - Tailwind CSS: For modern and responsive styling.
 - Framer Motion: For animations.
 - TypeScript: Ensures type safety.
 
-Backend:
+**Backend:**
 
 - Node.js: Server-side runtime.
 - NestJS: Framework for scalable backend architecture.
 - TypeORM: ORM for database interactions.
 
-Database:
+**Database:**
 
 - PostgreSQL: Relational database for storing application data.
 
-Documentation:
+**Documentation:**
 
 - Swagger: API documentation.
 
 # 📂 Project Structure
 
-The project is divided into two main directories:
+**The project is divided into two main directories:**
 
 1. Client: Contains the frontend code.
 2. Server: Contains the backend code.
 
-Server Folder Structure
+**Server Folder Structure:**
 
 - auth: Handles authentication and authorization.
 - categories, sections: Manage product sections and categories.
@@ -45,17 +45,17 @@ Server Folder Structure
 
 # User Roles and Permissions:
 
-Admin:
+**Admin:**
 
 - Perform CRUD operations on products, sections, and categories.
 - Manage roles (customer, admin, delivery person).
 - View all registered orders.
 
-Delivery Person:
+**Delivery Person:**
 
 - Mark orders as taken or delivered..
 
-Customer:
+**Customer:**
 
 - Make orders and pay with cash or card (save card details if needed).
 - Cancel orders if they haven’t been taken.
@@ -65,53 +65,53 @@ Customer:
 
 # E-Commerce Functionalities:
 
-Products:
+**Products:**
 
 - Add products to favorites.
 - Compare products.
 - View calculated discounts.
 
-Orders:
+**Orders:**
 
 - Real-time status tracking.
 - Order details including product list, address, quantity, and total cost.
 - Notifications via email for order confirmation and cancellation.
 
-Gift Cards:
+**Gift Cards:**
 
 - Customize and add gift cards to orders.
 
-Search:
+**Search:**
 
 - Use an AI chatbot to search for specific products.
 
 # Additional Features:
 
-Authentication:
+**Authentication:**
 
 - User registration, login, and logout.
 - Password reset functionality via email.
 
-Email Subscription:
+**Email Subscription:**
 
 - Users can subscribe to newsletters.
 
-Sections and Categories:
+**Sections and Categories:**
 
 - Categorized browsing for products (e.g., Electronics, Gaming, Accessories).
 
-Contact Form:
+**Contact Form:**
 
 - Allows users to send inquiries.
 
 # 📜 API Usage
 
-Initial Setup:
+**Initial Setup:**
 
 1. Initialize users via /api/users/init-users.
 2. Backfill sections via /api/sections/backfill.
 
-Auth Endpoints:
+**Auth Endpoints:**
 
 - /api/auth/register: Register a user.
 - /api/auth/login: Log in.
@@ -119,7 +119,7 @@ Auth Endpoints:
 - /api/auth/forgot-password: Send a password reset email.
 - /api/auth/reset-password: Save a new password.
 
-Additional Endpoints:
+**Additional Endpoints:**
 
 - /api/products: Manage products.
 - /api/orders: Manage orders.
