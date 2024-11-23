@@ -7,7 +7,6 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 **Frontend:**
 
 - ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-- Tailwind CSS: For modern and responsive styling.
 - ![Tailwind CSS](https://img.shields.io/badge/Styles-TailwindCSS-blueviolet?logo=tailwindcss)
 - ![Framer Motion](https://img.shields.io/badge/Animations-FramerMotion-orange?logo=framer)
 - ![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?logo=typescript)
