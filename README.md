@@ -9,16 +9,16 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 <div style="background-color: #e3f2fd; padding: 10px; border-radius: 5px;">
 
 - ![React](https://img.shields.io/badge/React-blue?logo=react)
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blueviolet?logo=tailwindcss)
-- ![Framer Motion](https://img.shields.io/badge/FramerMotion-orange?logo=framer)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-informational?logo=typescript)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-aqua?logo=tailwindcss)
+- ![Framer Motion](https://img.shields.io/badge/FramerMotion-magenta?logo=framer)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-lightblue?logo=typescript)
 </div>
 
 ### **Backend:**
 
 <div style="background-color: #ffebee; padding: 10px; border-radius: 5px;">
 
-- ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+- ![Node.js](https://img.shields.io/badge/Node.js-lightgreen?logo=node.js)
 - ![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
 - ![TypeORM](https://img.shields.io/badge/TypeORM-yellow?logo=typeorm)
 
@@ -36,7 +36,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 <div style="background-color: #e0f7fa; padding: 10px; border-radius: 5px;">
 
-- ![Swagger](https://img.shields.io/badge/Swagger-green?logo=swagger)
+- ![Swagger](https://img.shields.io/badge/Swagger-teal?logo=swagger)
 
 </div>
 
