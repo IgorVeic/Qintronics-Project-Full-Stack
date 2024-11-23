@@ -6,39 +6,24 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 **Frontend:**
 
-<div style="background-color: #e3f2fd; padding: 10px; border-radius: 5px;">
+- **React:** Component-based user interface.
+- **Tailwind CSS:** For modern and responsive styling.
+- **Framer Motion:** For animations.
+- **TypeScript:** Ensures type safety.
 
-- ![React](https://img.shields.io/badge/React-blue?logo=react)
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-aqua?logo=tailwindcss)
-- ![Framer Motion](https://img.shields.io/badge/FramerMotion-magenta?logo=framer)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-lightblue?logo=typescript)
-</div>
+**Backend:**
 
-### **Backend:**
+- **Node.js:** Server-side runtime.
+- **NestJS:** Framework for scalable backend architecture.
+- **TypeORM:** ORM for database interactions.
 
-<div style="background-color: #ffebee; padding: 10px; border-radius: 5px;">
+**Database:**
 
-- ![Node.js](https://img.shields.io/badge/Node.js-lightgreen?logo=node.js)
-- ![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
-- ![TypeORM](https://img.shields.io/badge/TypeORM-yellow?logo=typeorm)
+- **PostgreSQL:** Relational database for storing application data.
 
-</div>
+**Documentation:**
 
-### **Database:**
-
-<div style="background-color: #e8f5e9; padding: 10px; border-radius: 5px;">
-
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?logo=postgresql)
-
-</div>
-
-### **Documentation:**
-
-<div style="background-color: #e0f7fa; padding: 10px; border-radius: 5px;">
-
-- ![Swagger](https://img.shields.io/badge/Swagger-teal?logo=swagger)
-
-</div>
+- **Swagger:** API documentation.
 
 # 📂 Project Structure
 
