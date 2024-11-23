@@ -28,7 +28,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 <div style="background-color: #e8f5e9; padding: 10px; border-radius: 5px;">
 
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?logo=postgresql)
 
 </div>
 
