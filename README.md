@@ -1,1 +1,1 @@
-# Qintronics-Project-Full-Stack
+# Qintronics Project - Full Stack 💻📱🎮🎧
