@@ -1,1 +1,1 @@
-# 💻 Qintronics Project - Full-Stack
+# 💻 Qintronics Electronics Store - Full-Stack
