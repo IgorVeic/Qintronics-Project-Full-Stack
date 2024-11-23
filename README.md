@@ -121,8 +121,8 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
    - Client: **npm run dev** (React app).
    - Server: **npm run start:dev** (NestJS app).
 4. Initialize the database with Swagger APIs:
-   - /api/users/init-users
-   - /api/sections/backfill
+   - **/api/users/init-users**
+   - **/api/sections/backfill**
 5. Open the application in your browser.
 
 # 🌟 Features Overview:
