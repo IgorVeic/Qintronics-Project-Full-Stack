@@ -154,10 +154,3 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
    - Client: **npm run dev** (React app).
    - Server: **npm run start:dev** (NestJS app).
 5. Open the application in your browser.
-
-# 🌟 Features Overview:
-
-- Over 500+ products managed via backend.
-- Card payment with optional saved card details.
-- Interactive and responsive UI for all devices.
-- Role-based functionality for Admin, Delivery Person, and Customers.
