@@ -48,8 +48,16 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 **Admin:**
 
 - Perform CRUD operations on products, sections, and categories.
-- Manage roles (customer, admin, delivery person).
+- Manage user roles (customer, admin, delivery person).
 - View all registered orders.
+- Cancel orders if needed.
+- View analytics, including:
+  - Total Sales
+  - Orders
+  - Customers
+  - Average Order Value
+- See a chart displaying orders by months in the current year.
+- Delete registered user profiles.
 
 **Delivery Person:**
 
@@ -69,7 +77,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 - Add products to favorites.
 - Compare products.
-- View calculated discounts.
+- View products on sale with calculated discount.
 
 **Orders:**
 
@@ -104,6 +112,28 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 **Contact Form:**
 
 - Allows users to send inquiries.
+
+# 🛒 Shopping Cart
+
+- **Product Display**:
+
+  - Lists all added products with images, names, and descriptions.
+  - Displays the price of each product, the selected quantity, and the subtotal.
+
+- **Quantity Management**:
+
+  - Allows users to increase or decrease the quantity of each product in the cart using intuitive "+" and "-" buttons.
+  - Automatically updates the subtotal and total amount when quantities are changed.
+
+- **Remove Products**:
+
+  - Users can remove individual products from the cart using the "Remove" button (❌).
+
+- **Summary and Actions**:
+  - Shows a detailed summary, including the total price of all selected items.
+  - Offers two action buttons:
+    - **Continue Shopping**: Navigates back to the product page for adding more items.
+    - **Checkout**: Proceeds to the payment and order confirmation process.
 
 # 📦 Database
 
