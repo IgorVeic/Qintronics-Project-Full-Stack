@@ -9,13 +9,14 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 - **React:** Component-based user interface.
 - **Tailwind CSS:** For modern and responsive styling.
 - **Framer Motion:** For animations.
-- **TypeScript:** Ensures type safety.
+- **TypeScript:** Ensures type safety and is used for the entire frontend codebase.
 
 **Backend:**
 
 - **Node.js:** Server-side runtime.
 - **NestJS:** Framework for scalable backend architecture.
 - **TypeORM:** ORM for database interactions.
+- **TypeScript:** Used for the backend to enforce type safety and provide a consistent development experience.
 
 **Database:**
 
@@ -100,10 +101,8 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 - User registration, login, and logout.
 - Password reset functionality via email.
-
-**Email Subscription:**
-
-- Users can subscribe to newsletters.
+- Uses **JWT (JSON Web Tokens)** for secure authentication and authorization.
+- Session management and token storage handled securely using **cookies**.
 
 **Sections and Categories:**
 
@@ -115,29 +114,19 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 # 🛒 Shopping Cart
 
-- **Product Display**:
-
-  - Lists all added products with images, names, and descriptions.
-  - Displays the price of each product, the selected quantity, and the subtotal.
-
-- **Quantity Management**:
-
-  - Allows users to increase or decrease the quantity of each product in the cart using intuitive "+" and "-" buttons.
-  - Automatically updates the subtotal and total amount when quantities are changed.
-
-- **Remove Products**:
-
-  - Users can remove individual products from the cart using the "Remove" button (❌).
-
+- **Product Display**: Shows added products with images, names, prices, quantities, and subtotal.
+- **Quantity Management**: Adjust product quantity using "➕" and "➖" buttons with real-time updates.
+- **Remove Products**: Easily remove items from the cart with a ❌ button.
 - **Summary and Actions**:
-  - Shows a detailed summary, including the total price of all selected items.
-  - Offers two action buttons:
-    - **Continue Shopping**: Navigates back to the product page for adding more items.
-    - **Checkout**: Proceeds to the payment and order confirmation process.
+  - View total price and cart summary.
+  - **Continue Shopping** or proceed to **Checkout**.
 
 # 📦 Database
 
-- PostgreSQL: Includes tables for users, products, orders, categories, sections, and more.
+- **PostgreSQL:**
+
+- Includes tables for users, products, orders, categories, sections, and more.
+- Complex relations between tables to support all the functionalities of the application.
 
 # 📧 Email Notifications
 
