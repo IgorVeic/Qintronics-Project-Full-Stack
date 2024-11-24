@@ -1,4 +1,4 @@
-# 💻 Qintronics Electronics Store - Full-Stack
+# 💡 Qintronics Electronics Store - Full-Stack
 
 Qintronics is a comprehensive full-stack e-commerce application built to provide a seamless shopping experience for electronics. It features robust functionalities for customers, admins, and delivery personnel, ensuring an efficient and scalable solution.
 
@@ -146,7 +146,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 # 🚀 How to Run the Project
 
 1. Clone the repository.
-2. Navigate to the client and server directories and install dependencies using npm install.
+2. Navigate to the client and server directories and install dependencies using **npm install**.
 3. Initialize the database with Swagger APIs:
    - **/api/users/init-users**
    - **/api/sections/backfill**
