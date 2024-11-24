@@ -147,10 +147,10 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 1. Clone the repository.
 2. Navigate to the client and server directories and install dependencies using **npm install**.
-3. Initialize the database with Swagger APIs:
-   - **/api/users/init-users**
-   - **/api/sections/backfill**
-4. Start the client and server:
+3. Start the client and server:
    - Client: **npm run dev** (React app).
    - Server: **npm run start:dev** (NestJS app).
+4. Initialize the database with Swagger APIs:
+   - **/api/users/init-users**
+   - **/api/sections/backfill**
 5. Open the application in your browser.
