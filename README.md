@@ -143,7 +143,7 @@ Qintronics is a comprehensive full-stack e-commerce application built to provide
 
 - Users receive real-time email updates for order status and inquiries.
 
-# 🛠️ How to Run the Project
+# 🚀 How to Run the Project
 
 1. Clone the repository.
 2. Navigate to the client and server directories and install dependencies using npm install.
